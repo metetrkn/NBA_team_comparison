@@ -33,4 +33,4 @@ License
 This project is licensed under the [License Name] License - see the LICENSE.md file for details.
 
 ```javascript
-'mete turkan' and 'mit lisence'
+'mete turkan' and 'LICENSE'
